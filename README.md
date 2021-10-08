@@ -8,3 +8,4 @@ we might be able to tune into our collective vibes via visualization outputted d
 
 ## example visualization
 ![wave](./circular-wave.gif)
+[source](https://musicaccoustic.com/circular-audio-visualizer-in-vanilla-javascript-circular/)
